@@ -300,6 +300,18 @@ footer .icon-send {
   }
 }
 
+@media (max-width: 400px) {
+  .social-services {
+    width: auto;
+  }
+  .hd-right {
+    width: auto;
+  }
+  .text-right {
+    text-align: center;
+  }
+}
+
 @media (min-width: 768px) and (max-width: 870px) {
   .btn-search {
     padding-left: 30px;
